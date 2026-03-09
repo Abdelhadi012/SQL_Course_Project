@@ -21,4 +21,4 @@ LIMIT 10;
 
 SELECT *
 FROM job_postings_fact
-LIMIT 10000
+LIMIT 100
